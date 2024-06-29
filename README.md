@@ -2,7 +2,7 @@
 
 Simple solar sytstem simulation in Python  
 
-![](gif/sola_system_exemple.gif)  
+![](gif/solar_system_exemple.gif)  
 
 
 | Key      | Function                                                  |
